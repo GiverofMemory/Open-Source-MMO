@@ -1,0 +1,76 @@
+There are 8 broad categories of skills.
+
+curse
+damage
+healing/defensive
+summoning
+organize
+meta
+buffs
+tank
+
+3 class types you can choose to play.  2 banger (specialist), 3 banger, and 4 banger.
+
+2 banger have 2 skill types.  3 banger has 3, etc.
+
+Soft cap (max common monster level) is lvl 50.
+
+You gain 2 extra skill types every 4 levels.
+
+Lvl
+1 - no skill types
+4 - 2 skill types
+8 - 4 skill types
+12 - 6 skill types
+16 - 8 skill types
+20 - 10 skill types
+24 - 12 skill types
+28 - 14 skill types
+32 - 16 skill types
+36 - 18 skill types
+40 - 20 skill types
+44 - 22 skill types
+48 - 24 skill types
+
+
+Hotbar is 8.
+
+So a 4 banger class would have 6 skill types in each of all 4 categories.
+A 3 banger would have 8 skill types in 3 categories.
+A 2 banger would have 12 skill types in 2 categories.
+
+All 24 skill types of a class are useful at all levels.  However skills gained at lower levels would have to be "leveled up" to be useful at the higher levels.  Also you might need to find 
+
+There will be 8 classes, each with three types you can choose for a total of 24 versions you can play.
+
+Druid - 2 - Preserver
+Druid - 3 - Wanderer
+Druid - 4 - Hierophant
+
+Shaman - 2 - Preserver
+Shaman - 3 - Wanderer
+Shaman - 4 - Hierophant
+
+Wanderer - 2 - Preserver
+Wanderer - 3 - Wanderer
+Wanderer - 4 - Hierophant
+
+Mystic - 2 - Preserver
+Mystic - 3 - Wanderer
+Mystic - 4 - Hierophant
+
+Ranger - 2 - Preserver
+Ranger - 3 - Wanderer
+Ranger - 4 - Hierophant
+
+Overseer - 2 - Preserver
+Druid - 3 - Wanderer
+Druid - 4 - Hierophant
+
+Druid - 2 - Preserver
+Druid - 3 - Wanderer
+Druid - 4 - Hierophant
+
+Druid - 2 - Preserver
+Druid - 3 - Wanderer
+Druid - 4 - Hierophant
